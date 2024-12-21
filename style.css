@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+/* Body */
 body {
     background-color: #81b3a3;
     min-height: 100vh;
@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-
+/* Jokes area */
 .container {
     background-color: #60856b;
     display: flex;

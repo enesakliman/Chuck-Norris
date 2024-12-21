@@ -1,4 +1,8 @@
+// Atamalar 
+
 let jokes = document.getElementById('jokes-container')
+
+// Jokes area
 
 async function jokesData() { 
 try {
